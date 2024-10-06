@@ -1,12 +1,13 @@
 body {
     /* margin: 0;
     padding: 0; */
-    height: 100vh; 
+    /* height: 100vh;  */
     background-image: url('https://wallpapers.com/images/hd/blank-white-background-rqtbtu5ya320ymdj.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
-    width: 60%;
+    width: 920px;
+    height: 735px;
     margin: auto;
 }
 
